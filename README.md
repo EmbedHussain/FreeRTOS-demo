@@ -29,5 +29,5 @@ ISR → Sensor → Control → Communication
 
 ---
 
-## Interview Explanation
+## Explanation
 "A simulated interrupt gives a semaphore to a task. That task reads data and sends via queue. Another task processes and outputs result."
